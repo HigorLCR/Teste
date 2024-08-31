@@ -1,0 +1,14 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "apenas um teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Higor Lachini",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/cli": "^10.4.5"
+  }
+}
